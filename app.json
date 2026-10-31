@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SIGMA",
+    "slug": "sigma-futuriste",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.sigma.futuriste",
+      "versionCode": 1
+    }
+  }
+}
