@@ -1,7 +1,7 @@
 {
     "expo": {
         "name": "SIGMA",
-            "icon": "./assets/icon.png",
+               "icon": "./assets/icon.jpg"
                 "slug": "sigma",
                     "version": "1.0.0",
                         "orientation": "portrait",
