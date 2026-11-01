@@ -1,20 +1,23 @@
 {
-  "expo": {
-    "name": "SIGMA",
-    "slug": "sigma",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "newArchEnabled": true,
-    "android": {
-      "package": "com.sigma.futuriste",
-      "versionCode": 1
-    },
-    "owner": "aristide2005s-team",
-    "extra": {
-      "eas": {
-        "projectId": "47aaa98e-f636-403e-bd44-ba7ef1c07716"
-      }
-    }
-  }
+    "expo": {
+        "name": "SIGMA",
+            "icon": "./assets/icon.png",
+                "slug": "sigma",
+                    "version": "1.0.0",
+                        "orientation": "portrait",
+                            "userInterfaceStyle": "dark",
+                                "newArchEnabled": true,
+                                    "android": {
+                                          "icon": "./assets/icon.png",
+                                                "package": "com.sigma.futuriste",
+                                                      "versionCode": 1
+                                                          },
+                                                              "owner": "aristide2005s-team",
+                                                                  "extra": {
+                                                                        "eas": {
+                                                                                "projectId": "47aaa98e-f636-403e-bb44-ba7ef1c07716"
+                                                                                      }
+                                                                                          }
+                                                                                            }
+                                                                                          
 }
