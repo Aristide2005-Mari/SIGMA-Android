@@ -6,9 +6,9 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
-    "icon": "./assets/icon.jpg",
+    "icon": "./assets/icon.jng",
     "android": {
-      "icon": "./assets/icon.jpg",
+      "icon": "./assets/icon.jng",
       "package": "com.sigma.futuriste",
       "versionCode": 1
     },
