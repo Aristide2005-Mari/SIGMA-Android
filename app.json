@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SIGMA",
-    "slug": "sigma-futuriste",
+    "slug": "sigma",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -9,6 +9,12 @@
     "android": {
       "package": "com.sigma.futuriste",
       "versionCode": 1
+    },
+    "owner": "aristide2005s-team",
+    "extra": {
+      "eas": {
+        "projectId": "47aaa98e-f636-403e-bd44-ba7ef1c07716"
+      }
     }
   }
 }
